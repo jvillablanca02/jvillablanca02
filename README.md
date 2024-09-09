@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello, I'm Kibwana Miruru!
+Hola, soy Jullian Villablanca!
 	<a href="https://github.com/Bouaskaoun" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -8,14 +8,14 @@ Hello, I'm Kibwana Miruru!
 <hr>
 
 <pre>
-💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
-🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+💻 Ingeniero Informático, 
+📚 Licenciado en ciencias de la Ingeniería. Universidad de la Frontera, Temuco 
+📝 Tengo un gran interés en la Ingeniería de Software y la Gestion de Datos
+🛠️ Actualmente trabajando en la Armada de Chile
+🌱 Aprendiendo sobre diseños eficientes para sistemas escalables, IA y seguridad de datos.
+🌟 Lenguaje principal: Java😁
+🚩 Interesado en el desarrollo de aplicaciones
+😃 Espero colaborar en proyectos impactantes
 </pre>
 <hr>
 
@@ -47,14 +47,3 @@ Hello, I'm Kibwana Miruru!
 <!--
 **jvillablanca02/jvillablanca02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
