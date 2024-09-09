@@ -24,7 +24,10 @@ Hola, soy Jullian Villablanca!
 <p align="center">
 	<a href="mailto:jvillablanca02@outlook.com"><img src="https://img.shields.io/badge/outlook-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white" alt="outlook"/></a>
 	<a href="https://www.linkedin.com/in/jullian-villablanca-bustamante-b1069356/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- 
+ <a href="https://www.youtube.com/@julianvillablanca5558">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="width: 20px; height: 20px;">
+</a>
+
 </p>
 
 ## 💻 My Tech Stack
