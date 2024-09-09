@@ -22,7 +22,7 @@ Hello, I'm Kibwana Miruru!
 ## 🤝 Connect with me
 
 <p align="center">
-	<a href="mailto:mirukibs12.km@gmail.com"><img src="https://img.shields.io/badge/outlook-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white"> alt="Outlook"/></a>
+	<a href="mailto:mirukibs12.km@gmail.com"><img src="https://img.shields.io/badge/outlook-%230078D4.svg?style=plastic&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
 	<a href="https://www.linkedin.com/in/kibwana-miruru-322225232/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://www.instagram.com/slikshotcapture/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
